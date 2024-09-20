@@ -1,0 +1,38 @@
+.tanpabootstrap {
+    border: none;
+    padding: 20px;
+    font-weight: 800;
+    font-size: 3em;
+    background-color:tomato;
+    color: #333;
+    cursor: pointer;
+}
+    .tanpabootstrap:hover {
+    background-color:aqua;
+    color: black;
+    transform: rotateY(2);
+    transition: all .5s;
+    }
+
+    .img-instagram {
+        margin: 17.5px;
+        width: 65px;
+        height: 65px;
+
+    }
+
+    .headerkolom1 {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .headerkolom2 {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .headerkolom3 {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
